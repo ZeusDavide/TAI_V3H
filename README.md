@@ -36,9 +36,9 @@ MATLAB R2020a, Windows 10, 3.30 GHz E3-1225 CPU, and 64 GB main memory.
 
 1. Download this repository via git
     ```bash
-    git clone https://github.com/ZeusDavide/TAI_2020_V3H_R1.git
+    git clone https://github.com/ZeusDavide/TAI_V3H.git
     ```
-    or download the [zip file](https://github.com/ZeusDavide/TAI_2020_V3H_R1/archive/master.zip) manually.
+    or download the [zip file](https://github.com/ZeusDavide/TAI_V3H/archive/master.zip) manually.
     
 2. Get multi-view dataset: 
 We provide the YaleB dataset "YaleB.mat" in this repository as an example. For the other datasets in the experiments, please refer to the corresponding links or articles.
