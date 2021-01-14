@@ -1,6 +1,6 @@
 # TAI_V3H
 
-This is the repository for the revised paper **V3H: View Variation and View Heredity for Incomplete Multi-view Clustering** resubmitted to **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
+This is the repository for paper **V3H: View Variation and View Heredity for Incomplete Multi-view Clustering** accepted by **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
 
 ## View Variation and View Heredity
 
@@ -14,8 +14,8 @@ The codes of the compared methods can be found on the authors'  claimed websites
 
 ```bash
 .
-├── run_V3H_R1.m				                                               # DEMO file of V3H
-├── V3H_R1.m				                                           # core function of V3H
+├── run_V3H.m				                                               # DEMO file of V3H
+├── V3H.m				                                           # core function of V3H
 ├── YaleB.mat				                                             # data mat files
 ├── splitDigitData.m			                                       # construction of incomplete multi-view data
 ├── solveF.m				                                               # the initialization of F
