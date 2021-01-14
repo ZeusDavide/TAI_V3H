@@ -1,4 +1,4 @@
-function [H,obj] = V3H_R1(X,num_view,W,Z_ini,F_ini,num_cluster,alpha,beta,gamma,miu,rho,max_iter,num_instance)
+function [H,obj] = V3H(X,num_view,W,Z_ini,F_ini,num_cluster,alpha,beta,gamma,miu,rho,max_iter,num_instance)
 % Code for revision "V3H: View Variation and View Heredity for Incomplete Multi-view Clustering"
 % writen by Xiang Fang (xfang9508@gmail.com)
 %%
