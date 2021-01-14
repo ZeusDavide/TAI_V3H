@@ -1,4 +1,4 @@
-%NOTE THAT our revision "V3H: View Variation and View Heredity for Incomplete Multi-view Clustering"
+%NOTE THAT our pape "V3H: View Variation and View Heredity for Incomplete Multi-view Clustering"
 % performs the experiments in MATLAB R2020a and our codes run on a Windows 10 machine with 3:30 GHz E3-1225 CPU, 64 GB main memory.
 clear;
 clc
