@@ -55,7 +55,18 @@ To reproduce the experimental results in Section V-D of the paper, we need to ru
 - For $\eta$, we set $\eta=10^{-3}$ (i.e., relatively small $\eta$) for $||\bm{M}||_{\eta}$ and $\tau=10^{-2}$ (i.e., relatively small $\tau$) for $||\bm{E}^{(v)}||_{\tau}$.
 - In general, increasing iteration number `iter` will promote the clustering performance and consume more time. We recommend its maximum value is 30.
 
+### Citation
+If you use this code please cite:
 
+```
+@article{fang2021v3h,
+  title={V3H: View Variation and View Heredity for Incomplete Multi-view Clustering},
+  author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2021},
+  publisher={IEEE}
+  doi={10.1109/TAI.2021.3052425}}
+```
 
 ## Contact
 
