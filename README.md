@@ -1,6 +1,6 @@
 # TAI_V3H
 
-This is the repository for paper **V3H: View Variation and View Heredity for Incomplete Multi-view Clustering** accepted by **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
+This is the repository for paper **V3H: View Variation and View Heredity for Incomplete Multi-view Clustering** published by **IEEE Transactions on Artificial Intelligence (TAI)**  by Xiang Fang, Yuchong Hu, Pan Zhou, and Dapeng Oliver Wu.
 
 ## View Variation and View Heredity
 
@@ -59,12 +59,14 @@ To reproduce the experimental results in Section V-D of the paper, we need to ru
 If you use this code please cite:
 
 ```
-@article{fang2021v3h,
-  title={V3H: View Variation and View Heredity for Incomplete Multi-view Clustering},
+@ARTICLE{fangv3h2020,
   author={Fang, Xiang and Hu, Yuchong and Zhou, Pan and Wu, Dapeng Oliver},
-  journal={IEEE Transactions on Artificial Intelligence},
-  year={2021},
-  publisher={IEEE}
+  journal={IEEE Transactions on Artificial Intelligence}, 
+  title={V$^3$H: View Variation and View Heredity for Incomplete Multiview Clustering}, 
+  year={2020},
+  volume={1},
+  number={3},
+  pages={233-247},
   doi={10.1109/TAI.2021.3052425}}
 ```
 
