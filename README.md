@@ -41,7 +41,7 @@ MATLAB R2020a, Windows 10, 3.30 GHz E3-1225 CPU, and 64 GB main memory.
     or download the [zip file](https://github.com/ZeusDavide/TAI_V3H/archive/master.zip) manually.
     
 2. Get multi-view dataset: 
-We provide the YaleB dataset "YaleB.mat" in this repository as an example. For the other datasets in the experiments, please refer to the corresponding links or articles.
+We provide the YaleB dataset "YaleB.mat" in this repository as an example (you can download it from [Google Drive](https://drive.google.com/file/d/1q9wMrKqXRJnbQAoMq0aG4tzZ4o7I5uzv/view)). For the other datasets in the experiments, please refer to the corresponding links or articles.
 
 3. Add the root folder to the Matlab path before running the scripts.
 
